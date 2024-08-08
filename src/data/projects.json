@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Todo App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Next", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Joz1ah/todo-app.git"
+  },
+  {
+    "title": "Project B - In Progress",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["JavaScript", "ASP.NET", "Azure"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C - In Progress",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [".Net MAUI", "C#", "XAML"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

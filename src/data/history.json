@@ -1,0 +1,32 @@
+[
+  {
+    "role": ".Net MAUI Developer",
+    "organisation": "AITAS",
+    "startDate": "Jul, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": ["Worked on Crypto MAUI App.", "Fix bugs and add new UI features."],
+    "imageSrc": "history/crypto.png"
+  },
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Accenture",
+    "startDate": "Nov, 2022",
+    "endDate": "Jul, 2024",
+    "experiences": [
+      "Developed and maintained web applications.",
+      "Configured and integrated Azure AD services to enable single sign-on(SSO) functionality."
+    ],
+    "imageSrc": "history/accenture.png"
+  },
+  {
+    "role": "Front end dev Intern",
+    "organisation": "Accenture",
+    "startDate": "March, 2022",
+    "endDate": "May, 2022",
+    "experiences": [
+      "Attended Bootcamp.",
+      "Develop and Implement Web-Based Management System."
+    ],
+    "imageSrc": "history/accenture.png"
+  }
+]
